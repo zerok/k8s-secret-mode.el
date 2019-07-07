@@ -1,8 +1,9 @@
 ;;; k8s-secret-mode.el --- Minor mode for Kubernetes secret definitions -*- lexical-binding: t -*-
 
-;;; Copyright (C) 2019 Horst Gutmann
+;; Copyright (C) 2019 Horst Gutmann
 
-;;; Author: Horst Gutmann <zerok@zerokspot.com>
+;; Author: Horst Gutmann <zerok@zerokspot.com>
+;; Package-Requires: (auto-minor-mode)
 
 ;;; Commentary:
 ;; This package defines a new minor-mode which adds some encoding and
